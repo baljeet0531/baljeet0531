@@ -1,7 +1,10 @@
 # Introduce Myself
 
-I'm currently working on the project of **"NCKU Dogs Map"** mobile application.
+I'm Baljeet, beginner in software development.
 
-You can check it on https://hzaybr.github.io/uidd2020/index.html. **(Use mobile device to get better experience.)**
-
-The repository is on https://github.com/hzaybr/uidd2020.
+## Project
+* NCKU Dogs Map Progressive Web App: https://github.com/hzaybr/uidd2021-NCKUDOGS
+* Cocktail introduction in 2022 DIAGEO World Class using AR: https://github.com/baljeet0531/World-Class-AR/tree/gh-pages
+* ExpenseTracker LineBot: https://github.com/baljeet0531/ExpenseTrackerLineBot
+* SpongeBob Meme LineBot: https://github.com/baljeet0531/SpongeBobMemeLineBot
+* Carbon Emission Progressive Web App: https://github.com/baljeet0531/Carbon-Emission
