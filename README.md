@@ -2,6 +2,8 @@
 
 [![Baljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=baljeet0531)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet0531&layout=compact)
+
 ## About Me
 
 Hello there! I'm Baljeet, a dedicated software developer with a passion for continuous learning and technology. My journey in software development has been an exciting one, filled with curiosity and a drive to create innovative solutions.
@@ -36,17 +38,15 @@ Hello there! I'm Baljeet, a dedicated software developer with a passion for cont
    
 ### Chatbots
 
-5. **WorkEase Discord Chatbot** ([Repository](https://github.com/hongpei100/NetDB_DiscordBot))
+1. **WorkEase Discord Chatbot** ([Repository](https://github.com/baljeet0531/WorkEaseDiscordBot))
 
-   💬 A Discord chatbot designed to streamline communication and enhance productivity. 
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baljeet0531&repo=WorkEaseDiscordBot)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongpei100&repo=NetDB_DiscordBot)](https://github.com/anuraghazra/github-readme-stats)
-
-6. **ExpenseTracker LineBot** ([Repository](https://github.com/baljeet0531/ExpenseTrackerLineBot))
+2. **ExpenseTracker LineBot** ([Repository](https://github.com/baljeet0531/ExpenseTrackerLineBot))
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baljeet0531&repo=ExpenseTrackerLineBot)](https://github.com/anuraghazra/github-readme-stats)
 
-7. **SpongeBob Meme LineBot** ([Repository](https://github.com/baljeet0531/SpongeBobMemeLineBot))
+3. **SpongeBob Meme LineBot** ([Repository](https://github.com/baljeet0531/SpongeBobMemeLineBot))
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baljeet0531&repo=SpongeBobMemeLineBot)](https://github.com/anuraghazra/github-readme-stats)
 
